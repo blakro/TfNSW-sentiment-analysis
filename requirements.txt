@@ -1,0 +1,6 @@
+facebook-scraper
+transformers
+torch
+pandas
+scipy
+lxml_html_clean
